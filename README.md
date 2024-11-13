@@ -42,6 +42,7 @@ python3 --version
    ```
 
 ## 🐳 Running with docker
+![image](https://github.com/user-attachments/assets/bdb1f0ef-5dc0-46f8-a819-195a62c45b71)
 
 1.- Making Docker Pull or Build docker image
 
