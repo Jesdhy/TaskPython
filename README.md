@@ -49,16 +49,11 @@ python3 --version
    docker pull jessdhy/sumpython:latest
    ```
 
-```sh
-   docker build -t <any-name> .
-   ```
-
 2.- Last make a docker run
 
  ```sh
-   docker run <any-name>
+   docker run -it jessdhy/sumpython
    ```
-Where <any-name> is the name or tag you gave the image in the previous step.
 
 ## 🤝 Contributing
 Thank you for your interest in contributing to this project! Here are some guidelines for doing so:
