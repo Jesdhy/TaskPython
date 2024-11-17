@@ -1,5 +1,5 @@
 # 🌍👋 Hello world in python 
-![image](https://github.com/user-attachments/assets/8acafecd-2efa-40a1-803c-08d113bfc947)
+![image](https://github.com/user-attachments/assets/ca12344b-2d57-4c7d-b626-085b54e3a98e)
 
 ## 📘 About The Project
 
