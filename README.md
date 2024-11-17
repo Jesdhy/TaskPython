@@ -1,4 +1,5 @@
 # 🌍👋 Hello world in python 
+![image](https://github.com/user-attachments/assets/8acafecd-2efa-40a1-803c-08d113bfc947)
 
 ## 📘 About The Project
 
@@ -17,7 +18,7 @@ The project was developed on Ubuntu and prints the message 'Hello World' to the 
   - [🔧 Prerequisites](#prerequisites)
   - [📥 Installation](#installation)
   - [⚙️ Running](#running)
-  - [🐳 Running with Docker](#running-with-docker)
+  - [🚀 Running in Railway](#running-with-docker)
 - [🤝 Contributing](#contributing)
 
 ## 🚀 Getting Started
@@ -47,20 +48,15 @@ python3 --version
     python3 app.py
    ```
 
-## 🐳 Running with docker
-![image](https://github.com/user-attachments/assets/bdb1f0ef-5dc0-46f8-a819-195a62c45b71)
+## 🚀 Running in Railway
+1.- Create an account on Railway
+If you don't have an account, sign up for Railway.
 
-1.- Making Docker Pull or Build docker image
+2.- Import the repository into Railway
 
- ```sh
-   docker pull jessdhy/sumpython:latest
-   ```
-
-2.- Last make a docker run
-
- ```sh
-   docker run -it jessdhy/sumpython
-   ```
+- Log in to Railway and select the New Project option.
+- Click on Deploy from GitHub Repo.
+- Connect your GitHub account (if you haven't already) and select this repository.
 
 ## 🤝 Contributing
 Thank you for your interest in contributing to this project! Here are some guidelines for doing so:
