@@ -1,8 +1,14 @@
 # 🌍👋 Hello world in python 
-![image](https://github.com/user-attachments/assets/9c549b39-994e-4def-be61-173154a52dbe)
 
 ## 📘 About The Project
+
 The project was developed on Ubuntu and prints the message 'Hello World' to the console using Python.
+
+## ⚠️ **¡IMPORTANT!** ⚠️
+
+- The **main** branch contains the project with Docker setup.
+- The **railway-deployment** branch contains the project configured for Railway. 
+
 
 ## 📑 Table of Contents
 
